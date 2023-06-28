@@ -1,4 +1,3 @@
-# Sorting-Visualizer
 # Sorting Algorithm Visualizer
 
 This is a sorting algorithm visualizer implemented using the Pygame library in Python. It allows you to visualize various sorting algorithms in action, such as Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, and Quick Sort.

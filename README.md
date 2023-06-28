@@ -5,7 +5,7 @@ This is a sorting algorithm visualizer implemented using the Pygame library in P
 ## How to Use
 
 1. Ensure that Pygame is installed. You can install it using the command `pip install pygame`.
-2. Run the script `sorting_visualizer.py`.
+2. Run the script `visualizer.py`.
 3. The application window will open, displaying a randomly generated list of numbers.
 4. Press the following keys to interact with the visualizer:
    - **R**: Reset the list with a new random configuration.

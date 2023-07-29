@@ -29,6 +29,9 @@ The sorting algorithm visualizer relies on the following dependencies:
 
 You can install Pygame using the command `pip install pygame`.
 
+## Demo
+[![Alt Text](https://img.youtube.com/vi/C_XJxU2_5I4/0.jpg)](https://youtu.be/C_XJxU2_5I4)
+
 ## Contributing
 
 If you would like to contribute to this project, please follow these steps:
